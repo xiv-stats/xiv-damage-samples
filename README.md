@@ -29,6 +29,8 @@ The following formula will calculate the total mitigation for physical damage (r
 
                 Total_Mitigation = (P_1-I_01) * (P_2-I_2) * ... * (P_n-I_n)
 
+The purpose of storing these mitigations individually is to make it possible to filter damage events based on what mitigation is applied, in order to verify if some particular mitigation works on an ability or not.
+
 ### Mitigation Definitions
 These are the base mitigations from buffs/debuffs:
 ```
