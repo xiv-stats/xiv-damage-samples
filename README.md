@@ -1,7 +1,7 @@
 ## File Schema
 Each line in the file is one instance of damage. It is a comma-delimited (`,`) string with the following fields:  
 1. **Player Category** (`Caster`/`Healer`/`Melee`/`Ranged`/`Tank`)
-1. **Timestamp** of the damage event, relative to fight start time
+1. **Timestamp** of the damage event, relative to fight start time (milliseconds)
 1. **Ability id**
 1. **Ability name**
 1. Raw **damage taken** from the ability (the number that you see in game)
