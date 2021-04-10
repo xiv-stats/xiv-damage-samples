@@ -7,6 +7,8 @@ Each line in the file is one instance of damage. It is a comma-delimited (`,`) s
 1. Raw **damage taken** from the ability (the number that you see in game)
 1. The total sum of all the **shield values** that have broken from the damage
 1. **Damage type**, `P`/`M`/`D` for physical/magical/darkness damage respectively
+1. **Position** of the player that took the damage, in the form `x|y`
+1. **Position** of the actor that caused the damage, in the form `x|y`
 1. A **list of mitigation** from player buffs (see below)
 1. A **list of mitigation** from debuffs on the enemy (see below)
 1. **Debug info** in the following form: `DEBUG:<reportId>_<fightNumber>:<playerName>(<playerId>):<timestamp>`
