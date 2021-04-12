@@ -56,6 +56,7 @@ Reprisal|1001193|0.9|0.9|0
 Feint|1001195|1|0.9|0 
 Addle|1001203|0.9|1|0 
 Wheel of Fortune|1001206|0.9|0.9|0 
+Third Eye|1001232|0.9|0.9|0
 Shield Samba|1001826|0.9|0.9|0 
 Camouflage|1001832|0.9|0.9|0 
 Nebula|1001834|0.7|0.7|0 
